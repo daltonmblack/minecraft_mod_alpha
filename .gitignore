@@ -1,0 +1,3 @@
+# Build Directory, Built Files, Gradle Archive Files
+build/*
+.gradle/*
