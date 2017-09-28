@@ -1,0 +1,12 @@
+[{
+  "modid": "purpleblock",
+  "name": "Purple Block",
+  "description": "It's a purple block!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "url": "minecraftforge.net/",
+  "updateJSON": "",
+  "authorList": ["Jasmine", "Klas", "Dalton"],
+  "credits": "We'd like to thank Smitten :)"
+}]
